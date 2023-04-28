@@ -1,0 +1,15 @@
+export const ComponentData = [
+  {
+    id: 1,
+    name: "Metal Fragments",
+    imageSrc: "/assets/metal-fragments.png",
+    recycleAmount: 25,
+  },
+  {
+    id: 2,
+    name: "High Quality Metal",
+    imageSrc: "/assets/high-quality-metal.png",
+    recycleAmount: 100,
+  },
+  // ...and so on for all components
+];
