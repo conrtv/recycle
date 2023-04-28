@@ -2,7 +2,7 @@ import "./App.css";
 import Component from "./components/Components";
 import gearImage from "../src/assets/gears.png";
 import metalpipeImage from "../src/assets/metalpipe.png";
-import fuseImage from "../src/assets/gears.png";
+import fuseImage from "../src/assets/fuse.png";
 import emptypropanetankImage from "../src/assets/emptypropanetank.png";
 import metalbladeImage from "../src/assets/metalblade.png";
 import metalspringImage from "../src/assets/metalspring.png";
